@@ -154,6 +154,10 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
+Alexa Orrico - Github / Twitter
+Jennifer Huang - Github / Twitter
+Jhoan Zamora - Github / Twitter
+David Ovalle - Github / Twitter
 Annastansia Ochuku - [Github](https://github.com/Miss24Chimboto) 
 
 Second part of Airbnb: Joann Vuong
